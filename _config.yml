@@ -161,10 +161,10 @@ author:
   name             : "Sebastian Hahn"
   avatar           : "profile.png"
   bio              : "PhD Student"
-  location         : "TU Wien, Austria"
-  employer         : 
+  location         :
+  employer         : "TU Wien, Austria" 
   googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
-  email            : "sebastian.hahn@geo.tuwien.ac.at"
+  email            : 
   uri              : "https://www.researchgate.net/profile/Sebastian_Hahn"
   bitbucket        :
   codepen          :
@@ -180,8 +180,9 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-4855-6273"
   pinterest        :
+  researchgate     : "Sebastian_Hahn"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -261,10 +262,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -296,7 +297,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -305,7 +306,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -314,7 +315,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -322,7 +323,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
