@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sebastian Hahn"
 title_separator          : "-"
 name                     : &name "Sebastian Hahn"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : "https://sebhahn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sebhahn/sebhahn.github.io"
@@ -82,11 +82,11 @@ author:
   name             : "Sebastian Hahn"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Vienna, Austria"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "TU Wien, Austria"
+  employer         : 
+  googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
   email            : "sebastian.hahn@geo.tuwien.ac.at"
-  uri              :
+  uri              : "http://rs.geo.tuwien.ac.at/our-team/sebastian-hahn/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "s3bhahn"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -223,14 +223,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
