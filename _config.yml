@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Sebastian Hahn"
 title_separator          : "-"
 name                     : &name "Sebastian Hahn"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : "https://sebhahn.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sebhahn/sebhahn.github.io"
@@ -153,6 +153,46 @@ analytics:
   google:
     tracking_id          :
 
+<<<<<<< HEAD
+=======
+
+# Site Author
+author:
+  name             : "Sebastian Hahn"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "TU Wien, Austria"
+  employer         : 
+  googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
+  email            : "sebastian.hahn@geo.tuwien.ac.at"
+  uri              : "http://rs.geo.tuwien.ac.at/our-team/sebastian-hahn/"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "sebhahn"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/0000-0002-4855-6273"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+>>>>>>> 4e39747 (Update config)
 # Reading Files
 include:
   - .htaccess
@@ -267,14 +307,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
