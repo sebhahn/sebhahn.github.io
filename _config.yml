@@ -160,12 +160,12 @@ analytics:
 author:
   name             : "Sebastian Hahn"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student"
   location         : "TU Wien, Austria"
   employer         : 
   googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
   email            : "sebastian.hahn@geo.tuwien.ac.at"
-  uri              : "http://rs.geo.tuwien.ac.at/our-team/sebastian-hahn/"
+  uri              : "https://www.researchgate.net/profile/Sebastian_Hahn"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -261,10 +261,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -307,14 +307,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
@@ -335,7 +335,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Vienna # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
