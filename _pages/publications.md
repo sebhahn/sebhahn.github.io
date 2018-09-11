@@ -5,19 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+You can also find my articles on [Google Scholar profile](https://scholar.google.com/citations?user=g2-h7e4AAAAJ&hl=en).
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div align="left"> <iframe scrolling="no" marginheight="0" marginwidth="0" src="https://pub-geo.tuwien.ac.at/publist.php?lang=6&abt=1325&zuname=hahn&vorname=sebastian&sort=3&inv=1&nohead=1&nohtml=1" width="800" height="10000" frameborder="0" align="left"></iframe> </div>
 
