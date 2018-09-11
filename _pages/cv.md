@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 
-* PhD in Remote Sensing, Vienna University of Technology, Austria, ongoing
+* PhD in Microwave Remote Sensing, Vienna University of Technology, Austria, ongoing
 * MSc in Geodesy and Geophysics, Vienna University of Technology, Austria, 2011
 * BSc in Geodesy and Geoinformation, Vienna University of Technology, Austria, 2009
 
