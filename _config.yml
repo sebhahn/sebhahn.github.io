@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Sebastian Hahn"
 title_separator          : "-"
 name                     : &name "Sebastian Hahn"
-description              : &description "PhD Student"
+description              : &description "Senior Scientist"
 url                      : "https://sebhahn.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sebhahn/sebhahn.github.io"
@@ -153,18 +153,16 @@ analytics:
   google:
     tracking_id          :
 
-<<<<<<< HEAD
-=======
 
 # Site Author
 author:
   name             : "Sebastian Hahn"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         :
-  employer         : "TU Wien, Austria" 
+  bio              : "Senior Scientist"
+  location         : "Austria"
+  employer         : "TU Wien, Austria"
   googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
-  email            : 
+  email            :
   uri              : "https://www.researchgate.net/profile/Sebastian_Hahn"
   bitbucket        :
   codepen          :
@@ -182,10 +180,10 @@ author:
   pinterest        :
   researchgate     : "Sebastian_Hahn"
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -193,7 +191,6 @@ author:
   wikipedia        :
 
 
->>>>>>> 4e39747 (Update config)
 # Reading Files
 include:
   - .htaccess
