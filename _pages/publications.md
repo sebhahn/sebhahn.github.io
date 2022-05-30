@@ -9,13 +9,50 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 
 ## Journal papers
 
+### 2022
+
+W. Wagner, R. Lindorfer, T. Melzer, **S. Hahn**, B. Bauer-Marschallinger, K. Morrison, J.C. Calvet, S. Hobbs, R. Quast, I. Greimeister-Pfeil, M. Vreugdenhil: "Widespread occurrence of anomalous C-band backscatter signals in arid environments caused by subsurface scattering"; Remote Sensing of Environment, 276 (2022), 113025; 1 - 14.
+
+### 2021
+
+H. Beck, M. Pan, D. Miralles, R. Reichle, W. Dorigo, **S. Hahn**, J. Sheffield, L. Karthikeyan, G. Balsamo, R. Parinussa, A. Van Dijk, J. Du, J. Kimball, N. Vergopolan, E. Wood: "Evaluation of 18 satellite- and model-based soil moisture products using in situ measurements from 826 sensors"; Hydrology and Earth System Sciences, 25 (2021**, 1; 17 - 40.
+
+**S. Hahn**, W. Wagner, S. Steele-Dunne, M. Vreugdenhil, T. Melzer: "Improving ASCAT Soil Moisture Retrievals With an Enhanced Spatially Variable Vegetation Parameterization"; IEEE Transactions on Geoscience and Remote Sensing, 59 (2021), 10; 8241 - 8256. 
+
+S. Steele-Dunne, **S. Hahn**, W. Wagner, M. Vreugdenhil: "Towards Including Dynamic Vegetation Parameters in the EUMETSAT H SAF ASCAT Soil Moisture Products"; Remote Sensing, 13 (2021), 8; 1463-1 - 1463-16.
+
+R. van der Schalie, T. Scanlon, W. Preimesberger, A. Pasik, M. van der Vliet, L. Mösinger, N. Rodriguez-Fernandez, R. Madelon, **S. Hahn**, M. Hirschi, R. Kidd, R. De Jeu, W. Dorigo: "[Hydrological cycle] Soil Moisture [in "State of the Climate in 2020"]"; Bulletin of the American Meteorological Society, 102 (2021), 8; S67 - S68.
+
+### 2020
+
+M. Vreugdenhil, C. Navacchi, B. Bauer-Marschallinger, **S. Hahn**, S. Steele-Dunne, I. Greimeister-Pfeil, W. Dorigo, W. Wagner: "Sentinel-1 Cross Ratio and Vegetation Optical Depth: A Comparison over Europe";
+Remote Sensing, 12 (2020), 20; 3401-1 - 3401-19.
+
+### 2019
+
+A. Al-Yaari, J. Wigneron, W. Dorigo, A. Colliander, T. Pellarin, **S. Hahn**, A. Mialon, P. Richaume, R. Fernández-Morán, L. Fan, Y. Kerr, G. De Lannoy: "Assessment and inter-comparison of recently developed/reprocessed microwave satellite soil moisture products using ISMN ground-based measurements"; Remote Sensing of Environment, 224 (2019), 289 - 303.
+
+L. Brocca, P. Filippucci, **S. Hahn**, L. Ciabatta, C. Massari, S. Camici, L. Schüller, B. Bojkov, W. Wagner: "SM2RAIN-ASCAT (2007-2018): global daily satellite rainfall data from ASCAT soil moisture observations"; Earth System Science Data, 11 (2019), 4; 1583 - 1601.
+
+T. Scanlon, R. van der Schalie, W. Preimesberger, C. Reimer, **S. Hahn**, A. Gruber, R. Kidd, R. De Jeu, W. Dorigo: "[Hydrological cycle] Soil Moisture [in "State of the Climate in 2018"]"; Bulletin of the American Meteorological Society, 100 (2019), 9; 38 - 39.
+
+D. Shamambo, B. Bonan, J.C. Calvet, C. Albergel, **S. Hahn**: "Interpretation of ASCAT Radar Scatterometer Observations Over Land: A Case Study Over Southwestern France"; Remote Sensing, 11 (2019), 23; 2842-1 - 2842-21.
+
+S. Steele-Dunne, **S. Hahn**, W. Wagner, M. Vreugdenhil: "Investigating vegetation water dynamics and drought using Metop ASCAT over the North American Grasslands"; Remote Sensing of Environment, 224 (2019), 219 - 235.
+
 ### 2018
 
 L. Ciabatta, C. Massari, L. Brocca, A. Gruber, C. Reimer, **S. Hahn**, C. Paulik, W. Dorigo, R. Kidd, W. Wagner: "SM2RAIN-CCI: a new global long-term rainfall data set derived from ESA CCI soil moisture"; Earth System Science Data, 10 (2018), 267 - 280.
 
 W. Dorigo, T. Scanlon, A. Gruber, R. van der Schalie, C. Reimer, **S. Hahn**, C. Paulik, W. Wagner, R. De Jeu: "[Hydrological cycle] Soil Moisture [in "State of the Climate in 2017"]"; Bulletin of the American Meteorological Society, 99 (2018), 8; 35 - 36.
 
+F. Greifeneder, C. Notarnicola, **S. Hahn**, M. Vreugdenhil, C. Reimer, E. Santi, S. Paloscia, W. Wagner: "The Added Value of the VH/VV Polarization-Ratio for Global Soil Moisture Estimations From Scatterometer Data"; IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing, 11 (2018), 10; 3668 - 3679.
+
+I. Greimeister-Pfeil, M. Vreugdenhil, **S. Hahn**, W. Wagner, P. Strauss, G. Blöschl: "Improving the Seasonal Representation of ASCAT Soil Moisture and Vegetation Dynamics in a Temperate Climate"; Remote Sensing, 10 (2018), 11; 1788-1 - 1788-23.
+
 S. Thaler, L. Brocca, L. Ciabatta, J. Eitzinger, **S. Hahn**, W. Wagner: "Effects of Different Spatial Precipitation Input Data on Crop Model Outputs under a Central European Climate"; Atmosphere, 9 (2018), 8; 290-1 - 290-25.
+
+S. Thaler, J. Eitzinger, M. Trnka, M. Mozný, **S. Hahn**, W. Wagner, P. Hlavinka: "The performance of Metop Advanced SCATterometer soil moisture data as a complementary source for the estimation of crop-soil water balance in Central Europe"; Journal of Agricultural Science, 156 (2018), 577 - 598.
 
 ### 2017
 

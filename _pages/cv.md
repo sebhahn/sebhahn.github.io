@@ -12,18 +12,21 @@ redirect_from:
 Education
 ------
 
-* PhD in Microwave Remote Sensing, Vienna University of Technology, Austria, ongoing
-* MSc in Geodesy and Geophysics, Vienna University of Technology, Austria, 2011
-* BSc in Geodesy and Geoinformation, Vienna University of Technology, Austria, 2009
+* PhD in Microwave Remote Sensing, Technische Universität Wien (TU Wien), Austria, ongoing
+* MSc in Geodesy and Geophysics, Technische Universität Wien (TU Wien), Austria, 2011
+* BSc in Geodesy and Geoinformation, Technische Universität Wien (TU Wien), Austria, 2009
 
 Work experience
 ------
 
-* since 2015: Project Assistant
-  * Vienna University of Technology
+* since 2017-07: Senior Scientist
+  * Technische Universität Wien (TU Wien)
 
-* 2013--2015: University Assistant
-  * Vienna University of Technology
+* 2015-04 -- 2017-06: Project Assistant
+  * Technische Universität Wien (TU Wien)
 
-* 2010--2012: Project Assistant
-  * Vienna University of Technology
+* 2013-01 -- 2015-03: University Assistant
+  * Technische Universität Wien (TU Wien)
+
+* 2010-04 -- 2012-12: Project Assistant
+  * Technische Universität Wien (TU Wien)
