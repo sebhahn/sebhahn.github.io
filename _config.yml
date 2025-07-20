@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sebastian Hahn"
-  pronouns         : # example: "she/her"
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Vienna, Austria"
-  employer         : "Red Brick University"
+  pronouns         : #
+  bio              : #
+  location         : #
+  employer         : "TU Wien"
   uri              : # URL
-  email            : "sebastian.hahn@geo.tuwien.ac.at"
+  email            : "sebastian.hahn@tuwien.ac.at"
 
   # Academic websites
   academia         : # URL
