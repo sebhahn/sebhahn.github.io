@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sebastian Hahn"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Vienna, Austria"
   employer         : "Red Brick University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-4855-6273"
   semantic         : # URL
@@ -152,44 +152,6 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Sebastian Hahn"
-  avatar           : "profile.png"
-  bio              : "Senior Scientist"
-  location         : "Austria"
-  employer         : "TU Wien, Austria"
-  googlescholar    : "http://scholar.google.at/citations?user=g2-h7e4AAAAJ"
-  email            :
-  uri              : "https://www.researchgate.net/profile/Sebastian_Hahn"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "sebhahn"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0002-4855-6273"
-  pinterest        :
-  researchgate     : "Sebastian_Hahn"
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
