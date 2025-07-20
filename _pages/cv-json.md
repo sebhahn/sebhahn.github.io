@@ -19,7 +19,7 @@ redirect_from:
     float: none;
     padding-right: 0;
   }
-  
+
   @media (min-width: 80em) {
     .archive {
       width: 70%;
