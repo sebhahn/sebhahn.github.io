@@ -17,7 +17,7 @@ W. Wagner, R. Lindorfer, T. Melzer, **S. Hahn**, B. Bauer-Marschallinger, K. Mor
 
 H. Beck, M. Pan, D. Miralles, R. Reichle, W. Dorigo, **S. Hahn**, J. Sheffield, L. Karthikeyan, G. Balsamo, R. Parinussa, A. Van Dijk, J. Du, J. Kimball, N. Vergopolan, E. Wood: "Evaluation of 18 satellite- and model-based soil moisture products using in situ measurements from 826 sensors"; Hydrology and Earth System Sciences, 25 (2021**, 1; 17 - 40.
 
-**S. Hahn**, W. Wagner, S. Steele-Dunne, M. Vreugdenhil, T. Melzer: "Improving ASCAT Soil Moisture Retrievals With an Enhanced Spatially Variable Vegetation Parameterization"; IEEE Transactions on Geoscience and Remote Sensing, 59 (2021), 10; 8241 - 8256. 
+**S. Hahn**, W. Wagner, S. Steele-Dunne, M. Vreugdenhil, T. Melzer: "Improving ASCAT Soil Moisture Retrievals With an Enhanced Spatially Variable Vegetation Parameterization"; IEEE Transactions on Geoscience and Remote Sensing, 59 (2021), 10; 8241 - 8256.
 
 S. Steele-Dunne, **S. Hahn**, W. Wagner, M. Vreugdenhil: "Towards Including Dynamic Vegetation Parameters in the EUMETSAT H SAF ASCAT Soil Moisture Products"; Remote Sensing, 13 (2021), 8; 1463-1 - 1463-16.
 
